@@ -23,7 +23,7 @@ proxyMesh.Window()
 - Work with polygon mesh
 
 ## Contact
-- Email:goodmoks@gmail.com
+- Email: goodmoks@gmail.com
 
 ## Demo
 - Soon...
